@@ -2,16 +2,16 @@
 
 ## installation
 
-git clone git@github.com:hadzne/series_cleaner  
-cd series_cleaner  
+`git clone git@github.com:hadzne/series_cleaner  `
+`cd series_cleaner  `
 
 in your virtual environment
 
-pip3 install -r requirements.txt
+`pip3 install -r requirements.txt`
 
 ## running
 tested on linux only
-python3 series_cleaner.py -n 'YOUR PATH TO FOLDER CONTAINING FILMS'
+`python3 series_cleaner.py -n 'YOUR PATH TO FOLDER CONTAINING FILMS'`
 
 ## wstępna instrukcja
 Zakładam, że mamy przerobić katalog pliki do testowania
@@ -56,3 +56,5 @@ Przerabiamy na
 00:00:45  PLÁČ DÍTĚTE -A nakonec, nakonec...
 00:00:49  Ale, Eli, nakonec Ježíšek přiletí dovnitř oknem, hm?
 00:00:54  Čímž se překvapivě nedopustí ani trestného činu
+
+Wojciech Stanek
