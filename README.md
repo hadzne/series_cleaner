@@ -7,7 +7,11 @@ cd series_cleaner
 
 in your virtual environment
 
-pip3 freeze > requirements.txt
+pip3 install -r requirements.txt
+
+## running
+tested on linux only
+python3 series_cleaner.py -n 'YOUR PATH TO FOLDER CONTAINING FILMS'
 
 ## wstępna instrukcja
 Zakładam, że mamy przerobić katalog pliki do testowania
